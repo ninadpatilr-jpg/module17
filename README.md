@@ -70,6 +70,7 @@ Increase `--ExecutePreprocessor.timeout` if long-running cells (e.g., GridSearch
 - Enhance model evaluation by persisting the best-performing model and adding diagnostic metrics such as confusion matrices, ROC curves, and AUC scores.
 - Incorporate customer account balance as a feature, if available. Account balance is likely to be a strong predictor of term-deposit subscription, under the assumption that customers with higher balances have greater propensity to invest in long-term deposits.
 - Explore Deep Learning approaches, such as Artificial Neural Networks (ANNs), to assess whether non-linear models can further improve predictive performance compared to traditional classifiers.
+- **Finally, the marketing team should receive a consolidated list of customers most likely to subscribe to a term deposit, along with their contact details (email, phone, address) for targeted outreach**.
 
 
 Generated on: `2026-01-27`
